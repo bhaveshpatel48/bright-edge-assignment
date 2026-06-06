@@ -1,0 +1,22 @@
+# HTTP / crawling
+aiohttp==3.9.5
+tenacity==8.3.0
+
+# HTML parsing & content extraction
+beautifulsoup4==4.12.3
+lxml<5.2.0
+trafilatura==1.9.0
+
+# NLP / topic classification
+keybert==0.8.4
+scikit-learn==1.5.0
+
+# API layer
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+
+# Logging (structlog — swap ConsoleRenderer for JSONRenderer in production)
+structlog==24.1.0
+
+# Utilities
+cachetools==5.3.3

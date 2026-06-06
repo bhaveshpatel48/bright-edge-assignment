@@ -1,0 +1,306 @@
+[
+  {
+    "url": "https://blog.rei.com/camp/how-to-introduce-your-indoorsy-friend-to-the-outdoors/",
+    "url_hash": "b58bbdbb8543580f6d5ccb27e0c10f2cd23a68300a9eb2861844d6f685388943",
+    "domain": "blog.rei.com",
+    "crawled_at": "2026-06-06T09:30:16.346897",
+    "title": "Access Denied",
+    "meta_description": "",
+    "meta_keywords": [],
+    "canonical_url": "",
+    "lang": "",
+    "h1_tags": [
+      "Access Denied"
+    ],
+    "h2_tags": [],
+    "h3_tags": [],
+    "og_title": "",
+    "og_description": "",
+    "og_image": "",
+    "body_text": "Reference #18.71cc517.1780738216.80d3d134\nhttps://errors.edgesuite.net/18.71cc517.1780738216.80d3d134",
+    "content_hash": "e3b950f13850910c9216b72d4ecb410b4133c9dc3bfa968bccf78618b61d86d7",
+    "topics": [
+      "access denied",
+      "errors edgesuite",
+      "denied reference",
+      "errors",
+      "access",
+      "https errors",
+      "80d3d134 https",
+      "reference 18",
+      "71cc517 1780738216",
+      "net"
+    ],
+    "page_type": "unknown",
+    "tfidf_keywords": [],
+    "seo": {
+      "title_length": 13,
+      "meta_desc_length": 0,
+      "h1_count": 1,
+      "has_canonical": false,
+      "has_og_tags": false,
+      "has_schema_markup": false,
+      "internal_link_count": 0,
+      "external_link_count": 0,
+      "word_count": 3,
+      "keyword_density": {
+        "access denied": 0.0,
+        "errors edgesuite": 0.0,
+        "denied reference": 0.0,
+        "errors": 7.69,
+        "access": 0.0,
+        "https errors": 0.0,
+        "80d3d134 https": 0.0,
+        "reference 18": 0.0,
+        "71cc517 1780738216": 0.0,
+        "net": 7.69
+      },
+      "title_too_long": false,
+      "meta_desc_too_long": false,
+      "thin_content": true
+    },
+    "status_code": 403,
+    "crawl_duration_ms": 296,
+    "error": null,
+    "raw_html_storage_path": ""
+  },
+  {
+    "url": "https://www.amazon.com/Cuisinart-CPT-122-2-Slice-Compact-Plastic/dp/B009GQ034C",
+    "url_hash": "bb98751c27fa139c9a56b66c6c1a3cae6dcf53aabf9ba9e1470a9f1e697bae1b",
+    "domain": "www.amazon.com",
+    "crawled_at": "2026-06-06T09:30:29.455880",
+    "title": "503 - Service Unavailable Error",
+    "meta_description": "",
+    "meta_keywords": [],
+    "canonical_url": "",
+    "lang": "",
+    "h1_tags": [],
+    "h2_tags": [],
+    "h3_tags": [],
+    "og_title": "",
+    "og_description": "",
+    "og_image": "",
+    "body_text": "503 - Service Unavailable Error",
+    "content_hash": "18f8ae45e7c0cd9d6bcab969cd3b6bca9d70af8a3353f7a662d292bb4e0ae291",
+    "topics": [
+      "error 503",
+      "503 service",
+      "service unavailable",
+      "503",
+      "unavailable error",
+      "unavailable",
+      "error",
+      "service"
+    ],
+    "page_type": "product",
+    "tfidf_keywords": [
+      [
+        "503",
+        0.3779644730092272
+      ],
+      [
+        "503 service",
+        0.3779644730092272
+      ],
+      [
+        "error",
+        0.3779644730092272
+      ],
+      [
+        "service",
+        0.3779644730092272
+      ],
+      [
+        "service unavailable",
+        0.3779644730092272
+      ],
+      [
+        "unavailable",
+        0.3779644730092272
+      ],
+      [
+        "unavailable error",
+        0.3779644730092272
+      ]
+    ],
+    "seo": {
+      "title_length": 31,
+      "meta_desc_length": 0,
+      "h1_count": 0,
+      "has_canonical": false,
+      "has_og_tags": false,
+      "has_schema_markup": false,
+      "internal_link_count": 3,
+      "external_link_count": 0,
+      "word_count": 5,
+      "keyword_density": {
+        "error 503": 0.0,
+        "503 service": 0.0,
+        "service unavailable": 25.0,
+        "503": 25.0,
+        "unavailable error": 25.0,
+        "unavailable": 25.0,
+        "error": 25.0,
+        "service": 25.0
+      },
+      "title_too_long": false,
+      "meta_desc_too_long": false,
+      "thin_content": true
+    },
+    "status_code": 500,
+    "crawl_duration_ms": 13596,
+    "error": null,
+    "raw_html_storage_path": ""
+  },
+  {
+    "url": "https://www.cnn.com/2025/09/23/tech/google-study-90-percent-tech-jobs-ai",
+    "url_hash": "297fe1a6b7f3b6ee7a008b2d15c36397e6c7145bf97c67aa4c0738019b8ffd97",
+    "domain": "www.cnn.com",
+    "crawled_at": "2026-06-06T09:30:30.400480",
+    "title": "Google says 90% of tech workers are now using AI at work | CNN Business",
+    "meta_description": "The overwhelming majority of tech industry workers use artificial intelligence on the job for tasks like writing and modifying code, a new Google study has found.",
+    "meta_keywords": [],
+    "canonical_url": "https://www.cnn.com/2025/09/23/tech/google-study-90-percent-tech-jobs-ai",
+    "lang": "en",
+    "h1_tags": [
+      "Google says 90% of tech workers are now using AI at work"
+    ],
+    "h2_tags": [
+      "Download the CNN app",
+      "Download the CNN app"
+    ],
+    "h3_tags": [
+      "CNN values your feedback"
+    ],
+    "og_title": "Google says 90% of tech workers are now using AI at work | CNN Business",
+    "og_description": "The overwhelming majority of tech industry workers use artificial intelligence on the job for tasks like writing and modifying code, a new Google study has found.",
+    "og_image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1341307279.jpg?c=16x9&q=w_800,c_fill",
+    "body_text": "The overwhelming majority of tech industry workers use artificial intelligence on the job for tasks like writing and modifying code, a new Google study has found.\nThe report, coming from Google\u2019s DORA research division and based on 5,000 responses from technology professionals around the world, found that 90% of respondents are using AI in their job, up 14% from last year.\nThe findings come as the rise of AI has prompted a mix of concern, hype and promise around how the technology could impact jobs and the economy. Anthropic CEO Dario Amodei made headlines in May when he said AI could lead to a spike in unemployment, a sentiment that other tech industry professionals have since tamped down. But some data does suggest it\u2019s getting harder for entry-level workers to find jobs in software engineering, a trend that comes amid a wave of layoffs in the tech industry.\nGoogle is one of many companies looking to capitalize on the shift to AI-assisted software development; it offers tools that range from free to $45 per month for helping with code generation and deploying agents that can handle software development tasks. And the company faces widespread competition, not just from rivals like Microsoft, OpenAI and Anthropic but also AI coding startups such as Replit and Anysphere, which are seeing their valuations soar as tech companies increasingly adopt AI.\nRyan J. Salva, who oversees Google\u2019s coding tools like Gemini Code Assist, said the \u201cvast majority\u201d of teams at Google are using AI, saying the technology has been embedded into everything from the way documentation is written to Google\u2019s code editors.\n\u201cIf you are an engineer at Google, it is unavoidable that you will be using AI as part of your daily work,\u201d he said in an interview with CNN ahead of the report\u2019s release.\nBut just because coders use AI doesn\u2019t necessarily mean they\u2019re all finding value in it. Forty-six percent of tech professionals who participated in the survey said they \u201csomewhat\u201d trust the quality of AI-generated code, while 23% said they only trust it \u201ca little\u201d and 20% said they trust it \u201ca lot.\u201d And 31% said AI \u201cslightly improved\u201d code quality, while 30% said it had \u201cno impact.\u201d\nSalva says on a scale of one to five, with one being basic text prediction and five being the ability to give AI a general vague command, AI software development is somewhere between stage three and four. That\u2019s to say AI can troubleshoot across systems but still needs human review and \u201clots of safety nets.\u201d\nThe adoption of AI tools comes at a challenging time for entry-level tech workers. The unemployment rate for recent computer science and computer engineering graduates is now higher than that for fields like art history and English, according to The New York Fed, and job listings for software engineering roles on Indeed fell by 71% between February 2022 and August 2025.\nRecent computer science graduates who spoke with CNN earlier this year were generally optimistic about future career prospects but acknowledged that AI is changing the nature of the job. One recent graduate, Julio Rodriguez, said he applied to more than 150 jobs before landing a role.\nWhile AI adoption is advancing fast, Salva is in the camp of those who believe that there are critical parts of software development hat cannot be automated and that AI will streamline the parts that workers find mundane.\nBut he acknowledges that at least some of the uptick in adopting AI has probably come from the buzz surrounding the technology.\n\u201cSoftware development is a fashion industry\u2026 We\u2019re all chasing the next style of jeans,\u201d he said. \u201cAnd when there\u2019s that much conversation about it, everyone\u2019s just excited to try the new thing.\u201d",
+    "content_hash": "9f587b5a1a2b56240c8deb27a1f1acb5faed5bdd5837a104eafb7236223debcb",
+    "topics": [
+      "ai job",
+      "engineer google",
+      "technology professionals",
+      "companies increasingly",
+      "handle software",
+      "microsoft openai",
+      "deploying agents",
+      "unemployment sentiment",
+      "ceo dario",
+      "tools range"
+    ],
+    "page_type": "unknown",
+    "tfidf_keywords": [
+      [
+        "ai",
+        0.6618963635770369
+      ],
+      [
+        "said",
+        0.34836650714580886
+      ],
+      [
+        "google",
+        0.24385655500206618
+      ],
+      [
+        "software",
+        0.24385655500206618
+      ],
+      [
+        "code",
+        0.2090199042874853
+      ],
+      [
+        "tech",
+        0.2090199042874853
+      ],
+      [
+        "development",
+        0.17418325357290443
+      ],
+      [
+        "software development",
+        0.17418325357290443
+      ],
+      [
+        "industry",
+        0.13934660285832354
+      ],
+      [
+        "job",
+        0.13934660285832354
+      ],
+      [
+        "like",
+        0.13934660285832354
+      ],
+      [
+        "technology",
+        0.13934660285832354
+      ],
+      [
+        "workers",
+        0.13934660285832354
+      ],
+      [
+        "jobs",
+        0.10450995214374265
+      ],
+      [
+        "new",
+        0.10450995214374265
+      ],
+      [
+        "professionals",
+        0.10450995214374265
+      ],
+      [
+        "tech industry",
+        0.10450995214374265
+      ],
+      [
+        "tools",
+        0.10450995214374265
+      ],
+      [
+        "using",
+        0.10450995214374265
+      ],
+      [
+        "using ai",
+        0.10450995214374265
+      ]
+    ],
+    "seo": {
+      "title_length": 71,
+      "meta_desc_length": 162,
+      "h1_count": 1,
+      "has_canonical": true,
+      "has_og_tags": true,
+      "has_schema_markup": true,
+      "internal_link_count": 316,
+      "external_link_count": 41,
+      "word_count": 621,
+      "keyword_density": {
+        "ai job": 0.0,
+        "engineer google": 0.0,
+        "technology professionals": 0.16,
+        "companies increasingly": 0.16,
+        "handle software": 0.16,
+        "microsoft openai": 0.0,
+        "deploying agents": 0.16,
+        "unemployment sentiment": 0.0,
+        "ceo dario": 0.16,
+        "tools range": 0.0
+      },
+      "title_too_long": true,
+      "meta_desc_too_long": true,
+      "thin_content": false
+    },
+    "status_code": 200,
+    "crawl_duration_ms": 14509,
+    "error": null,
+    "raw_html_storage_path": ""
+  }
+]
