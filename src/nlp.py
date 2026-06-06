@@ -13,6 +13,7 @@ For production: swap KeyBERT for a GPU-accelerated batch inference service.
 """
 from __future__ import annotations
 
+import os
 import re
 from urllib.parse import urlparse
 
@@ -61,7 +62,15 @@ def enrich(page: PageMetadata) -> PageMetadata:
     """
     Run full NLP enrichment on an extracted PageMetadata.
     Mutates and returns the same object.
+
+    Controlled by the ENABLE_NLP_ENRICHMENT environment variable.
+    Set to "true" (case-insensitive) to enable; any other value (or unset)
+    skips enrichment and returns the page unchanged.
     """
+    if os.getenv("ENABLE_NLP_ENRICHMENT", "").strip().lower() != "true":
+        log.info("enrichment_skipped", url=page.url, reason="ENABLE_NLP_ENRICHMENT not set to true")
+        return page
+
     if not page.body_text:
         return page
 
