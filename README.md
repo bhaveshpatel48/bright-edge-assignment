@@ -6,6 +6,35 @@
 
 ---
 
+## Live Demo (Deployed on Render)
+
+The service is deployed at **https://bright-edge-assignment.onrender.com** on Render's free plan.
+
+> **Note:** The free plan spins down the instance after inactivity. The **first request after a period of inactivity may take 30–60 seconds** while the instance boots. Subsequent requests will be fast.
+
+### Health check
+
+```bash
+curl "https://bright-edge-assignment.onrender.com/health"
+```
+
+### Crawl a URL
+
+```bash
+curl "https://bright-edge-assignment.onrender.com/crawl?url=https://www.brightedge.com/"
+```
+
+### Fetch cached metadata by URL hash
+
+```bash
+# SHA-256 hash of https://www.brightedge.com/
+curl "https://bright-edge-assignment.onrender.com/metadata/5b614334b897c6967241576c980363aa6acf66019bc556c5de7a64e61c4817ea"
+```
+
+> The hash above corresponds to `https://www.brightedge.com/`. To get the hash for any other URL, hit `/crawl?url=<url>` first — the response includes `url_hash`.
+
+---
+
 ## Part 1 — Core Crawler
 
 Given any URL, returns: title, meta description, canonical URL, Open Graph tags, H1/H2/H3 headings, clean body text, page type, topics, keyword density, SEO flags, internal/external link counts, language.
